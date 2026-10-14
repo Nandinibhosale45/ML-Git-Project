@@ -1,0 +1,10 @@
+END-TO-END DATA PIPELINE REPORT
+================================
+Input file: data/student_data.csv
+Original rows: 10
+Rows after duplicate removal and missing-ID handling: 10
+Invalid rows removed during validation: 0
+Final valid rows: 10
+Output file: data/processed_student_data.csv
+Features created: average_score, performance_band
+Status: SUCCESS

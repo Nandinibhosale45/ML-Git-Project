@@ -1,0 +1,11 @@
+student_id,study_hours,attendance,assignments,previous_score,marks,average_score,performance_band
+1,2,75,6,50,55,52.5,Needs Improvement
+2,4,80,7,60,65,62.5,Good
+3,5,85,8,68,72,70.0,Good
+4,6,90,9,75,80,77.5,Good
+5,8,95,10,88,92,90.0,Good
+6,3,70,5,45,50,47.5,Needs Improvement
+7,7,92,9,82,87,84.5,Good
+8,5,88,8,70,76,73.0,Good
+9,2,65,4,40,45,42.5,Needs Improvement
+10,9,98,10,90,96,93.0,Good
